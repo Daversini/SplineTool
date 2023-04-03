@@ -1,0 +1,18 @@
+{
+    "name": "bersiproduction.splinetool.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:536c182741e00c4438e165977ade9988"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

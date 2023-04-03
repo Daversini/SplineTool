@@ -1,0 +1,13 @@
+{
+  "name": "com.bersiproduction.splinetool",
+  "version": "1.0.0",
+  "displayName": "Spline Tool",
+  "description": "Create a custom spline",
+  "unity": "2021.3",
+  "unityRelease": "10f1",
+  "author": {
+    "name": "Bersi",
+    "email": "bersini.davide@gmail.com",
+    "url": "https://twitter.com/daversini"
+  }
+}
